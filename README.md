@@ -18,7 +18,8 @@ The Project is on IPL 2022 dataset and analysis is done by using Python ,Pandas 
 - 2.Gujarat Titans is the team who also  Chase Higest run by ]that is 211.
 - 3.Punjab kings is the most scoring team who score 85 runs in power play overs.
 - 4.form the insight drawn Rajashtan Royals is the team who hits most sixes and fours throught out the season.
-__to check performace of indivitual Players__
+-
+__To check performace of indivitual Players__
 -1.Kuldeep Yadav is the palyer form      who got 4 times most Player of the match awards in the season .
 -2.JC Buttler the player from Rajasthan Royals who Scores most runs in IPl season 2022 and aslo the Orange cap hold for the season.
 -3.the most Wickets Taking Bowlers in the season is YS Chahal who took 29 wickets.
